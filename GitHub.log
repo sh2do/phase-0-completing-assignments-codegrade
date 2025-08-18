@@ -1,0 +1,4 @@
+2025-08-18 09:48:51.739 [info] Log level: Info
+2025-08-18 12:43:39.711 [info] Log level: Info
+2025-08-18 12:43:41.540 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-08-18 12:49:51.074 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for sh2do/phase-0-completing-assignments-codegrade: Error: No GitHub authentication session available.
